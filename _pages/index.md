@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# 🌱 Welcome!
+This site is a compilation of all the thoughts, reflections, opinions and events that I feel like sharing with the world.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+<p style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
+I hope my content helps, inspires and pleases you, let's work to return the web to its original purpose: <b>to share knowledge and genuine experiences between people</b>.
 </p>
+- [[About me]]
+- [[Hire me]]
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <strong>Recently updated notes</strong>
 
