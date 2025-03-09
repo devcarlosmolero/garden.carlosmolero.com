@@ -119,6 +119,14 @@ nav {
     grid-template-columns: 3fr 1fr;
     grid-template-areas: "content side";
   }
+
+  img {
+    width: 100%;
+  }
+
+  code .err {
+    background-color: transparent;
+  }
 }
 
 .backlink-box {

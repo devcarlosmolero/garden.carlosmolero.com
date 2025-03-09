@@ -16,7 +16,7 @@ Perfect! Let me tell you what I can do for you:
 
 Here are some of the technologies and languages I feel most comfortable working with:
 
-<div id="technologies" style="display:flex; justify-content: start">
+<div id="technologies" style="gap: 12px;display:flex; flex-wrap: wrap; justify-content: start">
 <img 
 width="40px"
 height="40px"
@@ -25,42 +25,42 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0"
 src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0"
 src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0;"
 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0;"
 src="https://www.svgrepo.com/show/374118/tailwind.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0;"
 src="https://www.svgrepo.com/show/353751/flutter.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0;"
 src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0;"
 src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
 <img 
 width="40px"
 height="40px"
-style="margin:0; margin-left: 12px;"
+style="margin:0;"
 src="https://www.svgrepo.com/show/306070/framer.svg"/>
 </div>
 

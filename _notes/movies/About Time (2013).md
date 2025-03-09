@@ -13,7 +13,7 @@ There was one moment in particular that gave me pause for thought:
 
 The protagonist, like his father, can travel back in time and replay moments in which he has been present and change things.
 
-However, after having his first child, he tries to travel to the past to save his sister from a car crash and when he returns he finds that the kid is different.
+However, after having his first child, he tries to travel to the past to save his sister from a car crash and when he returns he finds that the child is different.
 
 His father tells him that once his child is born, traveling back in time and making any changes will cause his child to be conceived from a different sperm.
 

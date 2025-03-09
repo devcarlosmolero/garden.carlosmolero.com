@@ -6,7 +6,13 @@ permalink: /
 ---
 
 # 🌱 Welcome!
-This site is a compilation of all the thoughts, reflections, opinions and events that I feel like sharing with the world.
+A compilation of all the thoughts, reflections, opinions and events that I feel like sharing with the world.
+
+## Why a digital garden and not a blog?
+
+I prefer to write short and concise ideas that I can revisit later to expand upon. For this reason, I felt that the traditional blog format didn't suit me.
+
+I believe that blogs, especially now with AI, have become tools focused on monetization and marketing, straying from their original purpose: **sharing human knowledge and experiences**.
 
 <p style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
 I hope my content helps, inspires and pleases you, let's work to return the web to its original purpose: <b>to share knowledge and genuine experiences between people</b>.
