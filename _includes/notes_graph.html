@@ -6,21 +6,27 @@
 
   .nodes circle {
     cursor: pointer;
-    fill: #8b88e6;
+    fill: var(--color-border);
     transition: all 0.15s ease-out;
   }
 
   .text text {
     cursor: pointer;
-    fill: #333;
-    text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb,
-      -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
+    fill: var(--color-text);
   }
 
   .nodes [active],
   .text [active] {
     cursor: pointer;
-    fill: black;
+  }
+
+  .nodes [active] {
+    fill: var(--color-primary);
+  }
+
+  .text [active] {
+    fill: var(--color-primary-light);
+    font-weight: bold;
   }
 
   .inactive {
@@ -29,8 +35,8 @@
   }
 
   #graph-wrapper {
-    background: #fcfcfc;
-    border-radius: 4px;
+    background: var(--color-body-bg-dark);
+    border-radius: var(--border-radius);
     height: auto;
   }
 

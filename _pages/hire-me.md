@@ -67,6 +67,6 @@ src="https://www.svgrepo.com/show/306070/framer.svg"/>
 - [Download my resume](https://docs.google.com/document/d/10zwBGEO3XI5P-yxAje9PkUKiXILKrhWf/edit?usp=sharing&ouid=110596581882338817822&rtpof=true&sd=true) to learn more about my professional background.
 - You can find samples of my work on [Github](https://github.com/devcarlosmolero) and [Dribbble](https://dribbble.com/devcarlosmolero).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/iscarlosmolero/).
-<p style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
+<div class="notice">
 You can talk to me by scheduling a meeting clicking <a target="_blank" href="https://cal.com/devcarlosmolero/hire-me-meeting?duration=30">here</a>.
-</p>
+</div>

@@ -25,6 +25,6 @@ class Lexer
 end
 ```
 
-<p style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
+<div class="notice">
 Check the  <a target="_blank" href="https://github.com/devcarlosmolero/text-adventure-commander">Github repository</a>.
-</p>
+</div>

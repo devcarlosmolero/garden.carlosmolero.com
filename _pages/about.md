@@ -3,12 +3,14 @@ layout: page
 title: About me
 permalink: /about
 ---
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+</style>
 # 👋 Hi, I'm Carlos
 
 I'm delighted that you've stopped by my digital garden.
 
-<div style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
+<div class="notice">
 Remember that <b>I am open to working as a software engineer or UX/UI designer on a freelance basis</b>. Click <a class="internal-link" href="/hire-me">here</a> to learn about my professional background and how to hire me.
 </div>
 
@@ -25,5 +27,10 @@ Likewise, it is also a joy to be able to use them in the hobbies and activities 
 > I would love for people to celebrate at my funeral how much I helped them and made them enjoy themselves.
 
 <p ></p>
-<div style="display: flex; justify-content: start; align-items: start;">
-<img width="80px" style="margin:0" src="https://i.postimg.cc/nrWvmrx5/Frame-4.png"/></div>
+<hr/>
+<div style="display: flex; width: fit-content; gap:16px; justify-content: start; align-items: start;">
+<img width="80px" style="margin:0" src="/assets/images/carlos-molero.png"/>
+<div style="display: flex; flex-direction: column; justify-content: start; align-items: start;">
+<p style="font-family: Great Vibes; font-size: 1.5em; margin:0">Carlos Molero</p>
+<p style="margin:0; font-size: 0.66em">Software Engineer, UX/UI Designer<br/> and Human</p></div>
+</div>

@@ -15,9 +15,9 @@ I prefer to write short and concise ideas that I can revisit later to expand upo
 
 I believe that blogs, especially now with AI, have become tools focused on monetization and marketing, straying from their original purpose: **sharing human knowledge and experiences**.
 
-<p style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
+<div class="notice">
 I hope my content helps, inspires and pleases you, let's work to return the web to its original purpose: <b>to share knowledge and genuine experiences between people</b>.
-</p>
+</div>
 
 <strong>Let's meet each other</strong>
 
