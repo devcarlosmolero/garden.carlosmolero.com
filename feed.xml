@@ -4,19 +4,19 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
+    <title>{{ site.title }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url | xml_escape }}</link>
-    <atom:link href="{{ site.url | xml_escape }}{{ "feed.xml" | xml_escape }}" rel="self" type="application/rss+xml" />
+    <link>https://garden.carlosmolero.com</link>
+    <atom:link href="https://garden.carlosmolero.com/{{ "feed.xml" | xml_escape }}" rel="self" type="application/rss+xml" />
     {% assign recent_notes = site.notes | reverse %}
     {% for note in recent_notes limit: 10 %}
       {% if note['list'] != "true" %}
         <item>
           <title>{{ note.title | xml_escape }}</title>
-          <description>{{ note.content | strip_html | strip_newlines | truncate: 160 }}</description>
+          <description>{{ note.content | strip_html | truncate: 160 }}</description>
           <pubDate>{{ note.date | date_to_rfc822 }}</pubDate>
-          <link>{{ site.url | xml_escape }}{{ note.url | xml_escape }}</link>
-          <guid isPermaLink="true">{{ site.url | xml_escape }}{{ note.url | absolute_url | xml_escape }}</guid>
+          <link>https://garden.carlosmolero.com{{ note.url | xml_escape }}</link>
+          <guid isPermaLink="true">https://garden.carlosmolero.com{{ note.url | xml_escape }}</guid>
         </item>
       {% endif %}
     {% endfor %}

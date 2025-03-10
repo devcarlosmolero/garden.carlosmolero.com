@@ -7,7 +7,7 @@ permalink: /
 
 # 🌱 Welcome!
 
-A compilation of all the thoughts, reflections, opinions and events that I feel like sharing with the world.
+This is a space of all the thoughts, reflections, opinions and events that I feel like sharing with the world.
 
 ## Why a digital garden and not a blog?
 
