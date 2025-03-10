@@ -1,10 +1,6 @@
 ---
 title: "Ruby Text Adventure Engine: Commander"
 ---
-<p style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
-Check the  <a target="_blank" href="https://github.com/devcarlosmolero/text-adventure-commander">Github repository</a>.
-</p>
-
 Developing this gem did not prove to be a problem.
 
 Basically because it relies on 2 very common functionalities in software development:
@@ -28,3 +24,7 @@ class Lexer
   end
 end
 ```
+
+<p style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
+Check the  <a target="_blank" href="https://github.com/devcarlosmolero/text-adventure-commander">Github repository</a>.
+</p>

@@ -19,4 +19,3 @@ Below you have the notes in which I document the creation of these components:
 
 - [[Ruby Text Adventure Engine, Commander]]
 - [[Ruby Text Adventure Engine, Level Manager]]
-- [[Ruby Text Adventure Engine, UI]]
