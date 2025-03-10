@@ -4,16 +4,15 @@ title: About me
 permalink: /about
 ---
 
-
 # 👋 Hi, I'm Carlos
 
-
 I'm delighted that you've stopped by my digital garden.
+
 <div style="padding: 1em 1em; background: #f5f7ff; font-size: 0.88em; border-radius: 4px;">
 Remember that <b>I am open to working as a software engineer or UX/UI designer on a freelance basis</b>. Click <a class="internal-link" href="/hire-me">here</a> to learn about my professional background and how to hire me.
 </div>
 
-I was born and raised in **Malaga, Spain** 🇪🇸, and **my first love was psychology**. 
+I was born and raised in **Malaga, Spain** 🇪🇸, and **my first love was psychology**.
 
 Unfortunately, I was not able to dedicate myself to it because it is a field with few job opportunities.
 
