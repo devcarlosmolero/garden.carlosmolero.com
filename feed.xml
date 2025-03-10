@@ -8,8 +8,8 @@ layout: none
     <description>{{ site.description | xml_escape }}</description>
     <link>https://garden.carlosmolero.com</link>
     <atom:link href="https://garden.carlosmolero.com/{{ "feed.xml" | xml_escape }}" rel="self" type="application/rss+xml" />
-    {% assign recent_notes = site.notes | reverse %}
-    {% for note in recent_notes limit: 10 %}
+    {% assign last_notes = site.notes | reverse %}
+    {% for note in last_notes limit: 10 %}
       {% if note['list'] != "true" %}
         <item>
           <title>{{ note.title | xml_escape }}</title>
