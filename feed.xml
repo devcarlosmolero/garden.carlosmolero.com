@@ -14,7 +14,7 @@ layout: none
         <item>
           <title>{{ note.title | xml_escape }}</title>
           <description>{{ note.content | strip_html | truncate: 160 }}</description>
-          <pubDate>{{ note.date | date_to_rfc822 }}</pubDate>
+          <pubDate>{{ note.last_modified_at | date_to_rfc822 }}</pubDate>
           <link>https://garden.carlosmolero.com{{ note.url | xml_escape }}</link>
           <guid isPermaLink="true">https://garden.carlosmolero.com{{ note.url | xml_escape }}</guid>
         </item>
