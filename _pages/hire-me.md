@@ -26,12 +26,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"/>
 width="40px"
 height="40px"
 style="margin:0"
-src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
+src="https://www.svgrepo.com/show/373703/js.svg"/>
 <img 
 width="40px"
 height="40px"
 style="margin:0"
-src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
+src="https://www.svgrepo.com/show/374144/typescript.svg"/>
 <img 
 width="40px"
 height="40px"

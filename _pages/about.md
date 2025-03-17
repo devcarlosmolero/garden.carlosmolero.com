@@ -3,9 +3,11 @@ layout: page
 title: About me
 permalink: /about
 ---
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 </style>
+
 # 👋 Hi, I'm Carlos
 
 I'm delighted that you've stopped by my digital garden.
@@ -31,6 +33,6 @@ Likewise, it is also a joy to be able to use them in the hobbies and activities 
 <div style="display: flex; width: fit-content; gap:16px; justify-content: start; align-items: start;">
 <img width="80px" style="margin:0" src="/assets/images/carlos-molero.png"/>
 <div style="display: flex; flex-direction: column; justify-content: start; align-items: start;">
-<p style="font-family: Great Vibes; font-size: 1.5em; margin:0">Carlos Molero</p>
-<p style="margin:0; font-size: 0.66em">Software Engineer, UX/UI Designer<br/> and Human</p></div>
+<p style="font-family: Great Vibes; font-size: 22px; font-weight: 600; margin:0">Carlos Molero</p>
+<p style="margin:0; font-size: 10px; font-style: italic;">Software Engineer, UX/UI Designer<br/> and Human</p></div>
 </div>
