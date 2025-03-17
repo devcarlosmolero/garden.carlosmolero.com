@@ -1,5 +1,5 @@
 ---
-title: "Ruby Text Adventure Engine: Commander"
+title: Ruby Text Adventure Engine 1. Commander
 ---
 Developing this gem did not prove to be a problem.
 
@@ -37,7 +37,7 @@ commands:
 	to: level_0#scene_1
 ```
 
-*This will make more sense when you read [[Ruby Text Adventure Engine, Level Manager]].*
+*This will make more sense when you read [[Ruby Text Adventure Engine 2. Level Manager]].*
 
 - As usual in this type of text-based games, the commands are composed of 2 words, the first one being, generally, a verb. So I followed this convention.
 - The way the Lexer and Parser classes work together is very simple. The Lexer delivers an array with the allowed symbols it was able to recognize in the user input, for example: `[“GO”, “RIGHT”, “LANTERN”, “TAKE”]` and the Parser groups it in arrays of 2 words to decide if the order is correct. In this particular case, only the command `GO_RIGHT` is given as valid.
