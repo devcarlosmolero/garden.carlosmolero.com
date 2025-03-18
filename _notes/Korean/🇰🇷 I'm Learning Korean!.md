@@ -1,5 +1,5 @@
 ---
-title: I'm Learning Korean!
+title: 🇰🇷 I'm Learning Korean!
 list: "true"
 ---
 If you know me, you will know that my partner is from South Korea and that I have decided to learn Korean because I am convinced that **to know a person you have to know their culture deeply and there is no greater expression of a people's culture than their language**.
