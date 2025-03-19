@@ -10,13 +10,13 @@ All these phrases are usually accompanied by a slight nod of the head to show re
 </ol>
 ### Greetings
 
-1. 안녕히세요 (annyeonghi gaseyo) - which will be answered with the same formula. It's like saying **How are you?**
-2. 안녕히가세요 (annyeonghi kaseyo) - which will be answered with the latter. In this case, adding 가 changes the meaning to **all the best**. It's said when someone leaves.
-3. 안녕히계세요 (annyeonghi kaeseyo) - In this case, adding 계 changes the meaning to **stay well**. It's said when you leave.
+1. 안녕하세요 (annyeonghaseyo) - which will be answered with the same formula. It's like saying **How are you?**
+2. 안녕히가세요 (annyeonghikaseyo) - which will be answered with the latter. In this case, adding 가 changes the meaning to **all the best**. It's said when someone leaves.
+3. 안녕히계세요 (annyeonghikaeseyo) - In this case, adding 계 changes the meaning to **stay well**. It's said when you leave.
 
 ### Saying Thanks
 
-1. 고마워요  (komawa yo) - Formal.
+1. 고마워요  (komawayo) - Formal.
 2. 감사합니다 (gamsahabnida) - Honorific.
 
 ### Saying You're Welcome
