@@ -31,7 +31,7 @@ I hope my content helps, inspires and pleases you, let's work to return the web 
   {% for note in notes %}
     {% if note['list'] == "true" %}
       <li>
-        {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+        {{ note.last_modified_at | date: "%Y-%m-%d" }} — {{ note.emoji }} <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
       </li>
     {% endif %}
   {% endfor %}
