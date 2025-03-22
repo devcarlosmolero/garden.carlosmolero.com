@@ -14,3 +14,5 @@ But hey, the one who fails for sure is the one who doesn't try, let's get to it!
 - [[I'm Learning Korean! 1. The Alphabet]]
 - [[I'm Learning Korean! 2. Common Interactions]]
 - [[I'm Learning Korean! 3. Verbs]]
+- [[I'm Learning Korean! 4. Personal Pronouns]]
+- [[I'm Learning Korean! 5. Introductions, Subjunctive and Auxiliary Particles]]

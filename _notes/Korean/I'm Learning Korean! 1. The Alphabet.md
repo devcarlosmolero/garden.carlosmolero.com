@@ -1,7 +1,6 @@
 ---
 title: I'm Learning Korean! 1. The Alphabet
 ---
-
 ## Table of Contents
 
 <ol>
@@ -38,7 +37,9 @@ Depending on the position of the lines around the \| (person symbol) we will alw
 | Top      | o     |
 | Buttom   | u     |
 
-> **Rule of thumb**: The ground (\_) always goes under the consonants and the person always around them (\|, e.g., 아).
+<div class="notice">
+<b>Rule of thumb: </b> The ground (\_) always goes under the consonants and the person always around them (\|, e.g., 아)
+</div>
 
 ### Compound vowels
 
@@ -76,7 +77,10 @@ This doesn't make much sense, unlike the simple vowels, so I guess I'll just mem
 | ㅌ        | t (releasing air)       |
 | ㅍ        | p (releasing air)       |
 
-> **Rule of thumb**: there must ALWAYS be a consonant and a vowel. In Spanish or English there is no problem in putting an “a” alone, the “a” sound is emitted, period. However, in Korean for a vowel to make a sound, at least the silent consonant ㅇ (in this case 아) must be used.
+
+<div class="notice">
+<b>Rule of thumb: </b> There must ALWAYS be a consonant and a vowel. In Spanish or English there is no problem in putting an “a” alone, the “a” sound is emitted, period. However, in Korean for a vowel to make a sound, at least the silent consonant ㅇ (in this case 아) must be used.
+</div>
 
 ### Compound consonants
 

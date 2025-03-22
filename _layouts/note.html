@@ -4,7 +4,7 @@ layout: default
 
 <article>
   <div>
-    <h1>{{ page.title }}</h1>
+    <h1>{{ page.emoji }} {{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
       >{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at |
       date: "%B %-d, %Y" }} {% endif %}
@@ -12,7 +12,12 @@ layout: default
   </div>
 
   <div id="notes-entry-container">
-    <content> {{ content }} </content>
+    <content>
+      {{ content }}
+      <!-- {% assign common_title = page.title | split: " " | slice: 0,
+      3 | join: " " %} {% for note in site.notes %} {% if note.title contains
+      common_title %} {{ note.title }} {% endif %} {% endfor %} -->
+    </content>
 
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
